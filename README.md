@@ -1,7 +1,7 @@
 
-#  Hey, I’m Tamica Grant a Certified Data Analyst with a background in Human Resources. Welcome to my Github!
-####  Data Engineer/Scientist - Technical Proficiencies
-#####   *  Areas of Expertise:	Statistical Concepts, Information Management, Process Improvement, Software Documentation, Systems Planning,                                     Project & Program Management, Customer Interactions, User Acceptance Testing, Leadership. Team collaboration on Git
+#  Hey, I’m Tamica Grant
+####  Certified Data Analyst with a background in Human Resources. 
+#####   *  Areas of Technical Proficiencies:	Statistical Concepts, Information Management, Process Improvement, Software Documentation, Systems Planning,                                     Project & Program Management, Customer Interactions, User Acceptance Testing, Leadership. Team collaboration on Git
    
    #####   *  Programming Languages & Tools:  SQL/NoSQL, R, Python (Pandas, NumPy, Flask), ETL, Airflow Support, Tableau, Power BI Visualization, D3.js, Plotly, Matplotlib, Machine Learning – Supervised, Unsupervised, Neural Network Creation and management of Docker containers, Warehousing, Probability, Statistics. 
    
@@ -14,8 +14,6 @@
 ####   Statistics Modeling & Forecasting
 
 ####   Python Programming: Python, Pandas, NumPy , Matplotlib, Seaborn, Flask, API, Interactions, Social, Media Mining
-
-####   Databases: MySQL, MongoDB, ETL, SQL
 
 ####   Front-End Web Visualizations: HTML, CSS, Bootstrap, Dashboarding, JavaScript, Charting D3.js, Plotly, Geomapping, with Leaflet.js
 
