@@ -1,9 +1,9 @@
 
 #  Hey, I’m Tamica Grant
 ####  Certified Data Analyst with a background in Human Resources. 
-##### Programming Languages & Tools:  SQL/NoSQL, R, Python (Pandas, NumPy, Flask), ETL, Tableau, Power BI Visualization, D3.js, Plotly, Matplotlib, Machine Learning – Supervised, Unsupervised, Neural Network Creation and management of Docker containers, Warehousing, Probability, Statistics. 
+#### Programming Languages & Tools:  SQL/NoSQL, R, Python (Pandas, NumPy, Flask), ETL, Tableau, Power BI Visualization, D3.js, Plotly, Matplotlib, Machine Learning – Supervised, Unsupervised, Neural Network Creation and management of Docker containers, Warehousing, Probability, Statistics. 
    
-##### Databases:  MongoDB, PostgreSQL, SQLAlchemy, SQL Server, AWS, Azure Databricks, Data Factory.
+#### Databases:  MongoDB, PostgreSQL, SQLAlchemy, SQL Server, AWS, Azure Databricks, Data Factory.
 
 ####   Machine Learning Language Processing: Scikit-learn, PyTorch, Keras ,TensorFlow
 
